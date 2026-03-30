@@ -1,6 +1,6 @@
 # Muhammad Hassaan Naeem
 
-🔬 ML Researcher | 2x Published Author | Lab Engineer @ SCAT
+🔬 ML Researcher | IoT & Data Science Enthusiast | 2x Published Author | IT Specialist/Lab Engineer @ SCAT
 📍 Wah Cantonment, Pakistan
 📧 muhammadhassaannaeem426@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-hassaan-naeem-b51610354/)
