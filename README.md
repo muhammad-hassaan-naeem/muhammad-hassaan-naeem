@@ -95,6 +95,7 @@ Dizionario v2.0 is a specialized tool built to bridge the gap between traditiona
 - **Backend:** SQL (MySQL/SQLite)
 - **Concepts:** Database Management, CRUD Lifecycle, Event-Driven Programming
 
+---
   
 ## Currently
 - 💼 Lab Engineer @ Swedish College of Engineering & Technology
