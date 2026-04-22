@@ -32,6 +32,15 @@ DOI: [10.1061/9780784485163.016](https://doi.org/10.1061/9780784485163.016)
 
 ---
 
+### 🛠️ Technical Ecosystem
+
+- **AI & Machine Learning:** Python (Scikit-learn, TensorFlow, PyTorch), SVM, KNN, Predictive Analytics.
+- **IoT & Research:** IoUT Protocols, Thorp's Acoustic Model, Edge AI, MQTT, Sensor Telemetry.
+- **Software Engineering:** SQL (MySQL/SQLite), Tkinter GUI, GitHub Actions (CI/CD), Pytest.
+- **Hardware:** Dell Precision & HP Z-series Workstations, Nvidia Quadro/AMD Radeon Pro optimization.
+
+---
+
 ### 🔭 Featured Research & Projects
 
 # 🌊 AquaSense v2.0
