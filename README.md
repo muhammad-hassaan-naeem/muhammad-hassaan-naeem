@@ -43,7 +43,7 @@ DOI: [10.1061/9780784485163.016](https://doi.org/10.1061/9780784485163.016)
 
 ### 🔭 Featured Research & Projects
 
-# 🌊 AquaSense v2.0
+# 🌊 AquaSense v2.1.0
 ### Underwater Sensor Node Monitoring & IoUT Research Framework
 
 AquaSense is a complete, reproducible simulation framework designed to evaluate **Energy-Efficient Clustering-Based Routing Protocols** for the Internet of Underwater Things (IoUT). 
